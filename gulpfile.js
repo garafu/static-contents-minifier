@@ -14,7 +14,4 @@ job = series(
   )
 );
 
-// module.exports.default = tasks["minify-javascripts"];
-// module.exports.default = tasks["minify-stylesheets"];
-module.exports.default = tasks["minify-images"];
-// module.exports.default = job;
+module.exports.default = job;
