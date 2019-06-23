@@ -75,6 +75,7 @@ typings/
 # FuseBox cache
 .fusebox/
 
-dist/
-src/
+dist/*
+src/*
 .vscode
+package-lock.json
